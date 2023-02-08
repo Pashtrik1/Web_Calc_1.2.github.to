@@ -1,24 +1,41 @@
 # Calculator Basic 1.2  
 Extention of the previous Web_Calc.  
 
-New Functions:
+## New Functions
 - Button "Ambush_button" makes buttons appear and disapear on demand.
 - New buttons expand the mathematical spectrum of the Calculator.  
 Buttons in question: " square_root, Pi, parenthesis, logn"
-# New Rules and Syntax  
+## New Rules and Syntax  
 including square root, parentsis and a logaryhmic functions changes alot in how numbers  
 are allowed to appear on the output displays. they bring in new Bugs and Concepts.  
 thats why new Rules have been addet that the user dosent need to know but the calculator  
 wont allow the use to break these rules.  
 
-2# example:  
+### example:  
 
-the use can't just write 2sqr(""). the Calculator wont respond.  
+- The user can't just write 2sqr(""). The calculator will not respond.  
 
-parenthesis can be placed how the user indends to but if the brakets are not closed   
+- Parenthesis can be placed how the user indends to but if the brakets  
+ are not closed he calculator will ignore the not closed brakets.  
 
-the calculator will ignore the not closed brakets.  
-brakets in log are pre set and cant be deleted by the "Delete" button  
+- Brakets in "log" are pre set and can't be deleted by the "Delete" button.  
+
+- The "log" function is viewed as one if the user trys to "Delete" any part of  
+  the function, the "log" function will disapear completly.
+
+## New looks and Smooth transitions
+
+
+
+
+
+
+
+https://user-images.githubusercontent.com/103830675/217603435-fb717be3-72d0-4e9e-bba9-b8f7d18e8e6a.mp4  
+
+there is still alot of work to do...
+
+
 
 
 
